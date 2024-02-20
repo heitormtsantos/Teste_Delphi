@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/17 18:47:57.000.705,=C:\Users\Gaming\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/02/17 18:53:26.000.390,C:\Users\Gaming\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Gaming\Desktop\Teste_Heitor\Unit2.pas</Transaction>
+    <Transaction>2024/02/17 18:53:26.000.390,C:\Users\Gaming\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Gaming\Desktop\Teste_Heitor\Unit2.dfm</Transaction>
+    <Transaction>2024/02/17 18:53:28.000.207,C:\Users\Gaming\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Gaming\Desktop\Teste_Heitor\Project2.dproj</Transaction>
+    <Transaction>2024/02/18 22:37:59.000.092,C:\Users\Gaming\Desktop\Teste_Heitor\Project2.dproj=C:\Users\Gaming\Desktop\Teste_Heitor\teste_Heitor.dproj</Transaction>
+    <Transaction>2024/02/18 22:38:21.000.744,C:\Users\Gaming\Desktop\Teste_Heitor\Unit2.dfm=C:\Users\Gaming\Desktop\Teste_Heitor\Unit_CadClientes.dfm</Transaction>
+    <Transaction>2024/02/18 22:38:21.000.744,C:\Users\Gaming\Desktop\Teste_Heitor\Unit2.pas=C:\Users\Gaming\Desktop\Teste_Heitor\Unit_CadClientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
